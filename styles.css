@@ -1,5 +1,15 @@
 .main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.titleDiv {
     border: 10px solid gold;
     padding: 10px;
     text-align: center;
+}
+.firstHomeWork{
+    width: 50vw;
+    display: flex;
+    justify-content: space-between;
 }
